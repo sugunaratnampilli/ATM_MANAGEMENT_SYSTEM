@@ -64,6 +64,11 @@ This ATM Management System project is a simple yet effective way to understand h
 
 Pilli Suguna Ratnam
 
+Diploma in CSE [COMPLETED]
+
+B.TECH 2nd year in CSE-AI&DS [PURSUING]
+
+
 
 
 
